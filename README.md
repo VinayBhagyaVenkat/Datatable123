@@ -1,2 +1,2 @@
 # Datatable123
-Creation of datatble using jquery function
+Creation of datatable using jquery function
